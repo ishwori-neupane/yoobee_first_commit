@@ -44,3 +44,7 @@ else:
     BMI_cal = weight / (height ** 2)
 
     print(f"Your BMI is: {BMI_cal:.4f}")
+# 
+
+
+# how are qubits are created ... reliable chaep expensive more money is invested where ??? much about qubits
